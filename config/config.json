@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "b00mst1ck",
-    "database": "rcbreddit",
+    "database": "rbcreddit",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
